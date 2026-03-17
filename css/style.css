@@ -50,7 +50,7 @@ footer {
 section .container {
     width: var(--max-size-container);
     max-width: 100%;
-    margin: auto;
+    margin:0 auto;
 }
 
 .title {
