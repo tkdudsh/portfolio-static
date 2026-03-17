@@ -461,7 +461,7 @@ a.header-menu-items {
 /* Footer End */
 
 /* ----------------------------------------------------------------------------------------------- */
-@media screen and (max-width:1200px) {
+@media screen and (max-width:390px) {
     .header{
         /* border: 3px solid red; */
         flex-direction: column;
